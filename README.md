@@ -3,7 +3,7 @@
 
 Research & Data Analysis:
 
-Developed survey instrument: Designed and implemented a survey using Qualtrics to gather data on Food Insecurity.
+Developed survey instrument: Designed and implemented a survey using Qualtrics to gather data on 2022 Picnic Day experience.
 
 Conducted data collection: Distributed the survey and managed respondent recruitment.
 
